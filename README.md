@@ -1,7 +1,7 @@
 # Analitica-de-datos-python
 Durante este analisis se tomo un archivo en formato csv con datos de personas estos 
 contienen varias caracteristicas y el problema a resolver es el siguiente:
-![alt text](https://github.com/sebas1017/Analitica-de-datos-python/blob/main/Problema_analitica.PNG?raw=true)
+![alt text](https://github.com/sebas1017/Analitica-de-datos-python/blob/main/Problema_analitica.png?raw=true)
 
 
 se tiene la clasificacion de los datos en estructuras de datos (listas,diccionarios) y luego se analizan esos datos 
