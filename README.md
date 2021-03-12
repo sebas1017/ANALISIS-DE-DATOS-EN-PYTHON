@@ -1,5 +1,5 @@
 # Analitica-de-datos-python
-Durante este analisis se tomo un archivo en format csv con datos de personas estos 
+Durante este analisis se tomo un archivo en formato csv con datos de personas estos 
 contienen varias caracteristicas y el problema a resolver es el siguiente:
 ![alt text](https://github.com/sebas1017/Analitica-de-datos-python/blob/main/Problema_analitica.PNG?raw=true)
 
